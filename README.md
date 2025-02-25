@@ -48,6 +48,5 @@ Lista apos modificar o elemento na posicao 2:
 - Alocação dinâmica de memória
 - Estruturas de dados (Lista Encadeada)
 
-## 📌 Autor
-Projeto desenvolvido para fins educacionais. 🚀
+
 
